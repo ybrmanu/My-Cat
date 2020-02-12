@@ -1,0 +1,64 @@
+.lala{
+    width: 50%;heightt: 100vh;
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    text-align: center;
+}
+.sleep{
+
+
+    margin-left: 50px;
+    margin-right: 40%;
+    margin-top: 20vh;
+    width: 30%;
+
+}
+.rick{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+    min-width: 100%;
+    min-height:100%;
+}
+.her{
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    opacity:0.5;
+height:60vh;
+    margin-top: 0%;
+    width: 500px;
+}
+.biggerdiv{
+    display:flex;
+    width: 100%;
+    height: 100%;
+}
+input {
+    fill: none;
+    border: none;
+    border-bottom: orange solid 2px;
+    background-color: transparent;
+    padding: 40px;
+}
+.joc{
+width: 20%;
+height: 100vh;}
+button{
+    border-radius:10px;
+    padding-left:5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    background-color: #ab601b;
+    color: white;
+}
+button:hover{
+    color: red;
+    background-color: darkturquoise;
+}

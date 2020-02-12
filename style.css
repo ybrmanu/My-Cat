@@ -1,0 +1,58 @@
+.topdiv{
+    justify-content:space-between ;
+    display: flex;
+    height: 10vh;
+    background-color: black;
+    text-decoration: white;
+}
+.bg{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+    min-width: 100%;
+    min-height:100%;
+}
+.bottomdiv{
+    text-align: center;
+    color: white;
+}
+.ring{
+ text-decoration: none;
+    background-color: blue;
+    padding: 5px;
+    color: white;
+    justify-content: space-between;
+}
+.ring:hover{
+    background-color: #13ab34;
+}
+.logo{
+height: 95px;
+
+}
+.topdivleft{
+    width: 10%;
+}
+.fifa{
+    height: 90px;
+}
+ul{
+    list-style-type: none;
+    border-radius: 5px;
+    display: flex;
+    color: white;
+
+
+}
+li{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.fifty{
+    display: flex;
+    justify-content: space-between;
+}

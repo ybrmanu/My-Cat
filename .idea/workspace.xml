@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18b6dcb0-e3c1-478c-8520-a93d8ed20d32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X7E1qXoHVnh3LiQIrvolbg3Dvh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eMobilis\PhpstormProjects\Ev2\resources" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18b6dcb0-e3c1-478c-8520-a93d8ed20d32" name="Default Changelist" comment="" />
+      <created>1580388520031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580388520031</updated>
+      <workItem from="1580388521169" duration="40000" />
+      <workItem from="1580388638701" duration="316000" />
+      <workItem from="1580389185701" duration="943000" />
+      <workItem from="1580390175671" duration="19000" />
+      <workItem from="1580390227721" duration="992000" />
+      <workItem from="1580391307478" duration="22000" />
+      <workItem from="1580391342057" duration="1623000" />
+      <workItem from="1580392995734" duration="3358000" />
+      <workItem from="1580466346022" duration="1225000" />
+      <workItem from="1580467693019" duration="449000" />
+      <workItem from="1580469505623" duration="718000" />
+      <workItem from="1580470260457" duration="1644000" />
+      <workItem from="1580471954805" duration="495000" />
+      <workItem from="1580472539447" duration="108000" />
+      <workItem from="1580472690914" duration="190000" />
+      <workItem from="1580473496785" duration="113000" />
+      <workItem from="1580474200904" duration="792000" />
+      <workItem from="1580727306531" duration="279000" />
+      <workItem from="1580728886937" duration="270000" />
+      <workItem from="1580729614908" duration="5270000" />
+      <workItem from="1580736172276" duration="1685000" />
+      <workItem from="1580797165486" duration="8000" />
+      <workItem from="1580813303618" duration="607000" />
+      <workItem from="1580987958792" duration="834000" />
+      <workItem from="1581075952851" duration="1096000" />
+      <workItem from="1581078687255" duration="1976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1580391327633">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1580391327633" />
+  </component>
+</project>
